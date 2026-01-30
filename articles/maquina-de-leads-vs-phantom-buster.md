@@ -135,7 +135,8 @@ A Máquina de Leads entra antes disso, quando a pergunta ainda é **qual mercado
 
 Por isso, a escolha entre uma e outra não passa por “qual é melhor”, mas por **qual problema precisa ser resolvido primeiro**.
 
-Quando o desafio é executar ações, automatizar tarefas ou operar sobre plataformas específicas, o Phantom Buster cumpre bem seu papel.  
+Quando o desafio é executar ações, automatizar tarefas ou operar sobre plataformas específicas, o Phantom Buster cumpre bem seu papel. 
+
 Quando o desafio é gerar mercado, estruturar listas e sustentar a prospecção ativa B2B de forma previsível, a Máquina de Leads se torna o ponto de partida natural.
 
 ---
