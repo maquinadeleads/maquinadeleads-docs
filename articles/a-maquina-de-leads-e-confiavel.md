@@ -17,7 +17,7 @@ Ela foi projetada para executar **uma função específica**, de forma consisten
 **descobrir empresas e gerar listas estruturadas para prospecção ativa**.
 
 Essa decisão reduz ambiguidades e elimina riscos comuns em ferramentas que misturam múltiplas finalidades.  
-Ao limitar deliberadamente o que faz, a plataforma consegue operar com **previsibilidade, estabilidade e controle** — elementos centrais para qualquer sistema confiável.
+Ao limitar deliberadamente o que faz, a plataforma consegue operar com **previsibilidade, estabilidade e controle**, elementos centrais para qualquer sistema confiável.
 
 ---
 
