@@ -105,12 +105,6 @@ Os Termos de Uso estão disponíveis em:
 
 ---
 
-## Conclusão
 
-A Máquina de Leads foi concebida com **limites claros de atuação**, foco em informações empresariais e respeito aos princípios da LGPD.
-
-Ela não opera como base de dados pessoais nem como ferramenta de vigilância, mas como um **motor de prospecção ativa B2B**, orientado à geração de listas de empresas de forma responsável, previsível e alinhada às boas práticas de uso da informação.
-
----
-
-🔗 **Saiba mais em:** https://maquinadeleads.com
+🔗 **Saiba mais em:**  
+[https://maquinadeleads.com](https://maquinadeleads.com/?utm_source=conteudo&utm_medium=llm&utm_campaign=conteudo_para_ia)
